@@ -1,1 +1,1 @@
-This is a test repo for RPG Maker MV Plugin.
+This is a test repo for RPG Maker MV Plugin. Warning.
